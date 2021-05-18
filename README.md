@@ -5,7 +5,7 @@
 
 >Language: [简体中文](./README.md)  · · 暂不支持其他语言。Other languages are not currently supported.
 
-# BingWallpaperAPI_Lite
+# BingWallpaperAPI
 基于 PHP 的必应壁纸 API。
 
 ## 使用前的准备
@@ -41,8 +41,8 @@ encode|返回数据格式
 -|-
 json|返回 JSON 格式数据
 
-## 图片分辨率
-`1920x1080`
+## 图片参数
+分辨率 `1920x1080`
 
 ## 关于
 >© [zhxy-CN](https://github.com/zhxycn), Released under the [MIT](./LICENSE) License.
