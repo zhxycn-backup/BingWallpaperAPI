@@ -2,6 +2,7 @@
 
     <head>
         <link rel="icon" type="image/x-icon" href="<?php echo ('favicon.ico'); ?>">
+	<title>BingWallpaper API</title>
     </head>
     
     <pre style="word-wrap: break-word; white-space: pre-wrap;"><?php
