@@ -1,6 +1,6 @@
 <p align="center">
-  <img alt="License" src="https://img.shields.io/github/license/zhxycn/BingWallpaperAPI"/>
-  <img alt="Size" src="https://img.shields.io/github/languages/code-size/zhxycn/BingWallpaperAPI"/>
+  <img alt="License" src="https://img.shields.io/github/license/zhxycn/BingWallpaperAPI">
+  <img alt="Size" src="https://img.shields.io/github/languages/code-size/zhxycn/BingWallpaperAPI">
 </p>
 
 >Language: [简体中文](./README.md)  · · 暂不支持其他语言。Other languages are not currently supported.
